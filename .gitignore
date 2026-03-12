@@ -1,0 +1,8 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
